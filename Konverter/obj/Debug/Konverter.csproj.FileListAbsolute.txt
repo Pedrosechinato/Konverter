@@ -1,0 +1,127 @@
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\bin\Debug\Konverter.exe.config
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\bin\Debug\Konverter.exe
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\bin\Debug\Konverter.pdb
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\obj\Debug\Konverter.Form1.resources
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\obj\Debug\Konverter.exe
+c:\users\17017633\documents\visual studio 2017\Projects\Konverter\Konverter\obj\Debug\Konverter.pdb
+C:\Users\17017633\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\17017633\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe
+C:\Users\17017633\Desktop\Konverter\Konverter\bin\Debug\Konverter.pdb
+C:\Users\17017633\Desktop\Konverter\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\17017633\Desktop\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\17017633\Desktop\Konverter\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\17017633\Desktop\Konverter\Konverter\obj\Debug\Konverter.exe
+C:\Users\17017633\Desktop\Konverter\Konverter\obj\Debug\Konverter.pdb
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\bin\Debug\Konverter.exe
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\bin\Debug\Konverter.pdb
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\obj\Debug\Konverter.exe
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\obj\Debug\Konverter.pdb
+C:\Users\RafaVrech\Desktop\Projeto B\Konverter\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\17136672\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\17136672\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe
+C:\Users\17136672\Desktop\Konverter\Konverter\bin\Debug\Konverter.pdb
+C:\Users\17136672\Desktop\Konverter\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\17136672\Desktop\Konverter\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\17136672\Desktop\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\17136672\Desktop\Konverter\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\17136672\Desktop\Konverter\Konverter\obj\Debug\Konverter.exe
+C:\Users\17136672\Desktop\Konverter\Konverter\obj\Debug\Konverter.pdb
+C:\Users\17136672\Desktop\Konverter\Konverter\obj\Debug\Konverter.csproj.CoreCompileInputs.cache
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\bin\Debug\Konverter.pdb
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\obj\Debug\Konverter.exe
+C:\Users\RafaVrech\Desktop\Konverter\Konverter\obj\Debug\Konverter.pdb
+C:\Users\17017633\Desktop\Konverter\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\obj\Debug\Konverter.exe
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\obj\Debug\Konverter.pdb
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\bin\Debug\Konverter.exe
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\bin\Debug\Konverter.pdb
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Pedro Faculdade\Projetos B\AAAAA\Konverter+1.2+final\Konverter\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\Pedro\Desktop\Konverter\Konverter\obj\Debug\Konverter.exe
+C:\Users\Pedro\Desktop\Konverter\Konverter\obj\Debug\Konverter.pdb
+C:\Users\17759358\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\17759358\Desktop\Konverter\Konverter\bin\Debug\Konverter.exe
+C:\Users\17759358\Desktop\Konverter\Konverter\bin\Debug\Konverter.pdb
+C:\Users\17759358\Desktop\Konverter\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\17759358\Desktop\Konverter\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\17759358\Desktop\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\17759358\Desktop\Konverter\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\17759358\Desktop\Konverter\Konverter\obj\Debug\Konverter.exe
+C:\Users\17759358\Desktop\Konverter\Konverter\obj\Debug\Konverter.pdb
+C:\Users\RafaVrech\Desktop\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\RafaVrech\Desktop\Konverter\bin\Debug\Konverter.exe
+C:\Users\RafaVrech\Desktop\Konverter\bin\Debug\Konverter.pdb
+C:\Users\RafaVrech\Desktop\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\RafaVrech\Desktop\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\RafaVrech\Desktop\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\RafaVrech\Desktop\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\RafaVrech\Desktop\Konverter\obj\Debug\Konverter.exe
+C:\Users\RafaVrech\Desktop\Konverter\obj\Debug\Konverter.pdb
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\bin\Debug\Konverter.exe
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\bin\Debug\Konverter.pdb
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\obj\Debug\Konverter.csproj.CoreCompileInputs.cache
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\obj\Debug\Konverter.exe
+C:\Users\Alves\Desktop\Konverter v2.1\Konverter v2.1\Konverter\obj\Debug\Konverter.pdb
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\bin\Debug\Konverter.exe
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\bin\Debug\Konverter.pdb
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\obj\Debug\Konverter.exe
+C:\Users\17017633\Desktop\Konverter v2.2\Konverter v2.2\Konverter\obj\Debug\Konverter.pdb
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\bin\Debug\Konverter.exe
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\bin\Debug\Konverter.pdb
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\obj\Debug\Konverter.csproj.CoreCompileInputs.cache
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\obj\Debug\Konverter.exe
+C:\Users\RafaVrechAcer\Desktop\Konverter v2.2\Konverter\obj\Debug\Konverter.pdb
+C:\Users\Pedro\Desktop\Konverter v3.1\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\Pedro\Desktop\Konverter v3.1\Konverter\obj\Debug\Konverter.exe
+C:\Users\Pedro\Desktop\Konverter v3.1\Konverter\obj\Debug\Konverter.pdb
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\bin\Debug\Konverter.exe
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\bin\Debug\Konverter.pdb
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\obj\Debug\Konverter.exe
+C:\Users\RafaVrech\Desktop\Konverter v3.1\Konverter\obj\Debug\Konverter.pdb
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\bin\Debug\Konverter.exe
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\bin\Debug\Konverter.pdb
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\obj\Debug\Konverter.FormPrincipal.resources
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\obj\Debug\Konverter.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\obj\Debug\Konverter.exe
+C:\Users\Pedro\Desktop\Konverter v4.1\Konverter\obj\Debug\Konverter.pdb
